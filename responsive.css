@@ -32,6 +32,12 @@
     width: 100vw;
     border-radius: 0px;
   }
+  .box {
+    width: 75vw;
+  }
+  .box-item i{
+    margin-right: 25px;
+  }
 }
 
 @media (max-width: 380px) {
